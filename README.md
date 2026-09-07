@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="20230109185948_3ac7e.thumb.1000_0.jpg" width="100%">
+</p>
+
 # Hi, I'm NiKo 👋
 
 ## 👨‍🎓 About Me
